@@ -1,0 +1,7 @@
+*.xlsx
+*.env
+*.log
+secrets*
+credentials*
+tracking*
+exploitation*
